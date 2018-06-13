@@ -1,7 +1,7 @@
 {
-  "name": "ReactJS Starter App",
+  "name": "reactjsStarter",
   "version": "1.0.0",
-  "description": "Webberdoo ReactJS Starter",
+  "description": "Simple starter package for Redux with React and Babel support",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
