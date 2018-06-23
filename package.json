@@ -9,7 +9,6 @@
     "test": "mocha --compilers js:babel-core/register --require ./test/test_helper.js --recursive ./test",
     "test:watch": "npm run test -- --watch",
     "build": "webpack"
-
   },
   "author": "",
   "license": "ISC",
@@ -22,6 +21,7 @@
     "webpack-dev-server": "^3.1.4"
   },
   "dependencies": {
+    "@material-ui/core": "^1.2.3",
     "axios": "^0.18.0",
     "babel-preset-stage-1": "^6.1.18",
     "lodash": "^4.17.10",
