@@ -22,7 +22,6 @@
   },
   "dependencies": {
     "@material-ui/core": "^1.2.3",
-
     "axios": "^0.18.0",
     "babel-preset-stage-1": "^6.1.18",
     "lodash": "^4.17.10",
